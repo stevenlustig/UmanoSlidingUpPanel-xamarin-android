@@ -4,4 +4,6 @@ Xamarin.Android binding for the popular library: https://github.com/umano/Androi
 Version: 3.0
 
 ####Usage:
-Use the generated event handlers, NOT the listener methods / interfaces
+Refer to the documentation for the original project (link above).
+
+For event listeners, use the generated event handlers, NOT the listener methods / interfaces
